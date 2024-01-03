@@ -1,0 +1,4 @@
+DAT -1 ; the target address (relative)
+ADD #8 -1 ; add 5 to the number before this statement
+MOV #0 @-2 ; drop a 0 on the relative address stored in the DAT
+JMP -2 ; do it all over again

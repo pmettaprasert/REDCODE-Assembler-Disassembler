@@ -1,0 +1,3 @@
+C:/Users/colle/OneDrive/Desktop/C++/REDCODE/cmake-build-debug/CMakeFiles/REDCODE.dir
+C:/Users/colle/OneDrive/Desktop/C++/REDCODE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/colle/OneDrive/Desktop/C++/REDCODE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
